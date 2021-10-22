@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello \o/
 
-<!--
-**yitsushi/yitsushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My dotfiles**
 
-Here are some ideas to get you started:
+* [ZSH][dot-zsh]
+* [tmux + tmuxp][dot-tmux]
+* [Neovim][dot-neovim]
+* [Alacritty][dot-alacritty]
+* [NeoMutt][dot-neomutt]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[dot-zsh]: https://gitea.code-infection.com/efertone/config-zsh
+[dot-tmux]: https://gitea.code-infection.com/efertone/config-tmux
+[dot-neovim]: https://gitea.code-infection.com/efertone/config-nvim
+[dot-alacritty]: https://gitea.code-infection.com/efertone/config-alacritty
+[dot-neomutt]: https://gitea.code-infection.com/efertone/config-mutt
