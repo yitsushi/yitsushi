@@ -8,6 +8,13 @@
 * [Alacritty][dot-alacritty]
 * [NeoMutt][dot-neomutt]
 
+**Contact information**
+
+* Federated network: [@efertone@slippy.xyz](https://slippy.xyz/@efertone)
+* Keybase: [@yitsushi](https://keybase.io/yitsushi/)
+* Matrix: @efertone:matrix.efertone.me
+* Email: efertone@pm.me [GPG Key](keys/3333347E7464E7D91B5512B2312D70F64B9E1FBA.asc)
+
 
 [dot-zsh]: https://gitea.code-infection.com/efertone/config-zsh
 [dot-tmux]: https://gitea.code-infection.com/efertone/config-tmux
