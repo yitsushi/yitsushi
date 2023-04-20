@@ -12,7 +12,7 @@
 
 * Federated network: [@efertone@slippy.xyz](https://slippy.xyz/@efertone)
 * Keybase: [@yitsushi](https://keybase.io/yitsushi/)
-* Matrix: @efertone:matrix.efertone.me
+* Matrix: @efertone:matrix.org
 * Email: efertone@pm.me [[GPG Key](keys/3333347E7464E7D91B5512B2312D70F64B9E1FBA.asc)]
 
 
