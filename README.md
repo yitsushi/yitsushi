@@ -14,6 +14,7 @@
 * Keybase: [@yitsushi](https://keybase.io/yitsushi/)
 * Matrix: @efertone:matrix.org
 * Email: efertone@pm.me [[GPG Key](keys/3333347E7464E7D91B5512B2312D70F64B9E1FBA.asc)]
+* Blog (with extra contact info): [efertone.me](https://efertone.me/)
 
 
 [dot-zsh]: https://gitea.code-infection.com/efertone/config-zsh
