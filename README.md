@@ -7,6 +7,8 @@
 * [Neovim][dot-neovim]
 * [Alacritty][dot-alacritty]
 * [NeoMutt][dot-neomutt]
+* [LeftWM][dot-leftwm]
+* [Git][dot-git]
 
 **Contact information**
 
@@ -22,3 +24,5 @@
 [dot-neovim]: https://gitea.code-infection.com/efertone/config-nvim
 [dot-alacritty]: https://gitea.code-infection.com/efertone/config-alacritty
 [dot-neomutt]: https://gitea.code-infection.com/efertone/config-mutt
+[dot-leftwm]: https://gitea.code-infection.com/efertone/config-leftwm
+[dot-git]: https://gitea.code-infection.com/efertone/config-git
