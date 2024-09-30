@@ -12,17 +12,26 @@
 
 **Contact information**
 
-* Federated network: [@efertone@slippy.xyz](https://slippy.xyz/@efertone)
-* Keybase: [@yitsushi](https://keybase.io/yitsushi/)
+* Federated network:
+  * Misskey [@efertone@slippy.xyz][misskey]
+  * Mastodon: [@efertone@tech.lgbt][mastodon]
+* Keybase: [@efertone][keybase]
 * Matrix: @efertone:matrix.org
-* Email: efertone@pm.me [[GPG Key](keys/3333347E7464E7D91B5512B2312D70F64B9E1FBA.asc)]
-* Blog (with extra contact info): [efertone.me](https://efertone.me/)
+* Email: victoria@efertone.me [[GPG Key][gpg-key]]
+* Blog (with extra contact info): [efertone.me][website]
+* All other possible options (if you are really lost): [find.efertone.me][find-me]
 
 
-[dot-zsh]: https://gitea.code-infection.com/efertone/config-zsh
-[dot-tmux]: https://gitea.code-infection.com/efertone/config-tmux
-[dot-neovim]: https://gitea.code-infection.com/efertone/config-nvim
-[dot-alacritty]: https://gitea.code-infection.com/efertone/config-alacritty
-[dot-neomutt]: https://gitea.code-infection.com/efertone/config-mutt
-[dot-leftwm]: https://gitea.code-infection.com/efertone/config-leftwm
-[dot-git]: https://gitea.code-infection.com/efertone/config-git
+[dot-zsh]: https://git.efertone.me/efertone/config-zsh
+[dot-tmux]: https://git.efertone.me/efertone/config-tmux
+[dot-neovim]: https://git.efertone.me/efertone/config-nvim
+[dot-alacritty]: https://git.efertone.me/efertone/config-alacritty
+[dot-neomutt]: https://git.efertone.me/efertone/config-mutt
+[dot-leftwm]: https://git.efertone.me/efertone/config-leftwm
+[dot-git]: https://git.efertone.me/efertone/config-git
+[misskey]: https://slippy.xyz/@efertone
+[mastodon]: https://tech.lgbt/@efertone
+[keybase]: https://keybase.io/yitsushi/
+[gpg-key]: https://openpgpkey.efertone.me/.well-known/openpgpkey/efertone.me/hu/4hkpotmjgz7nb3om58ugnothsjcda6q3
+[website]: https://efertone.me/
+[find-me]: https://find.efertone.me/
