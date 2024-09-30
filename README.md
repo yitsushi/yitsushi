@@ -31,7 +31,7 @@
 [dot-git]: https://git.efertone.me/efertone/config-git
 [misskey]: https://slippy.xyz/@efertone
 [mastodon]: https://tech.lgbt/@efertone
-[keybase]: https://keybase.io/yitsushi/
+[keybase]: https://keybase.io/efertone/
 [gpg-key]: https://openpgpkey.efertone.me/.well-known/openpgpkey/efertone.me/hu/4hkpotmjgz7nb3om58ugnothsjcda6q3
 [website]: https://efertone.me/
 [find-me]: https://find.efertone.me/
