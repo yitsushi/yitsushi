@@ -2,10 +2,10 @@
 
 **My dotfiles**
 
-* [ZSH][dot-zsh]
+* [Fish][dot-fish] ([ZSH][dot-zsh])
 * [tmux + tmuxp][dot-tmux]
 * [Neovim][dot-neovim]
-* [Alacritty][dot-alacritty]
+* [Kitty][dot-kitty] ([Alacritty][dot-alacritty])
 * [NeoMutt][dot-neomutt]
 * [LeftWM][dot-leftwm]
 * [Git][dot-git]
@@ -13,7 +13,6 @@
 **Contact information**
 
 * Federated network:
-  * Misskey [@efertone@slippy.xyz][misskey]
   * Mastodon: [@efertone@tech.lgbt][mastodon]
 * Keybase: [@efertone][keybase]
 * Matrix: @efertone:matrix.org
@@ -23,13 +22,14 @@
 
 
 [dot-zsh]: https://git.efertone.me/efertone/config-zsh
+[dot-fish]: https://git.efertone.me/efertone/config-fish
 [dot-tmux]: https://git.efertone.me/efertone/config-tmux
 [dot-neovim]: https://git.efertone.me/efertone/config-nvim
 [dot-alacritty]: https://git.efertone.me/efertone/config-alacritty
+[dot-kitty]: https://git.efertone.me/efertone/config-kitty
 [dot-neomutt]: https://git.efertone.me/efertone/config-mutt
 [dot-leftwm]: https://git.efertone.me/efertone/config-leftwm
 [dot-git]: https://git.efertone.me/efertone/config-git
-[misskey]: https://slippy.xyz/@efertone
 [mastodon]: https://tech.lgbt/@efertone
 [keybase]: https://keybase.io/efertone/
 [gpg-key]: https://openpgpkey.efertone.me/.well-known/openpgpkey/efertone.me/hu/4hkpotmjgz7nb3om58ugnothsjcda6q3
