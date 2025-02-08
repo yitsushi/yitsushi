@@ -7,7 +7,7 @@
 * [Neovim][dot-neovim]
 * [Kitty][dot-kitty] ([Alacritty][dot-alacritty])
 * [NeoMutt][dot-neomutt]
-* [LeftWM][dot-leftwm]
+* [Hyprland][dot-hyperland] ([LeftWM][dot-leftwm])
 * [Git][dot-git]
 
 **Contact information**
@@ -29,6 +29,7 @@
 [dot-kitty]: https://git.efertone.me/efertone/config-kitty
 [dot-neomutt]: https://git.efertone.me/efertone/config-mutt
 [dot-leftwm]: https://git.efertone.me/efertone/config-leftwm
+[dot-hyperland]: https://git.efertone.me/efertone/config-hyperland
 [dot-git]: https://git.efertone.me/efertone/config-git
 [mastodon]: https://tech.lgbt/@efertone
 [keybase]: https://keybase.io/efertone/
